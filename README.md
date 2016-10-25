@@ -11,4 +11,10 @@ function isTrianlge(a, b, c){
   return sum - max > max; 
   } 
   ``` 
+ Additional solution I really liked: 
+ ```script.js 
+ function isTriangle(a. b.c){ 
+  return a + b > c && a + c > b && c + b > a; 
+  } 
+  ``` 
   
