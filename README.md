@@ -78,4 +78,4 @@ var isSquare = function(n){
 	else 
 	return false; 
 	} 
-	```
+```
